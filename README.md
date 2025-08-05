@@ -33,4 +33,4 @@ A simple mobile application built using **Flutter** to support **adult literacy 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sheema@6144/everyday-words-app.git
+   git clone https://github.com/Sheema6144/everyday-words-app.git
